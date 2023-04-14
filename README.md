@@ -1,6 +1,6 @@
 # CLuVI
-###Synopsis:
+### Synopsis:
 Your project involves building a web app as an abstraction layer on ML for analyzing image data. The goal of the project is to make it easier for developers without a strong ML background to perform data analysis on unstructured data. This will be accomplished by choosing a specific problem or type of image data to analyze, gathering and preprocessing the data, and using a pretrained ML model to analyze the data and extract meaningful insights. Once a trained model is available, it will be integrated into the web app and a user interface will be created. The final stage will involve testing and refining the web app to ensure user-friendliness and accuracy.
 
-###Vision:
+### Vision:
 The vision for your project is to create a powerful and user-friendly tool that allows developers to perform data analysis on unstructured image data without needing a strong ML background. This tool should provide a simple and intuitive interface for uploading images, selecting a pretrained ML model, and viewing the results of the analysis. By using pretrained models, the app will be able to achieve high accuracy while reducing the amount of time and resources required to train models from scratch. The ultimate goal is to democratize data analysis and enable developers from a wide range of backgrounds to gain insights from unstructured image data.
